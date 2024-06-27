@@ -2,6 +2,11 @@
 
 This is my solution for the excercise in the SQL course that I'm taking in [codewithmosh](https://codewithmosh.com/p/complete-sql-mastery).
 
+## Table of Contents
+
+1. [Description](##Description)
+
+   
 ## Description
 
 Based on the pdf information given, design a database for this system. 
@@ -29,4 +34,17 @@ Based on the pdf information given, design a database for this system.
 
 >[!CAUTION]
 >Esto es para poner una precaucion
+--->
+<!---
+```
+├── README.md
+├── data
+├── notebooks
+│ ├── income_prediction.ipynb
+└── requirements.txt
+```
+--->
+
+<!---
+
 --->
