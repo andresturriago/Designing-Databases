@@ -1,15 +1,27 @@
+<!---
+space for inti image
+Snapshoot of the model in mysql 
+--->
+
 # Designing-Databases
 
 This is my solution for the excercise in the SQL course that I'm taking in [codewithmosh](https://codewithmosh.com/p/complete-sql-mastery).
+
+<hr>
 
 ## Table of Contents
 
 1. [Description](##Description)
 
-   
+<hr>
+
 ## Description
 
 Based on the pdf information given, design a database for this system. 
+
+Lo
+
+
 
 <!---
 <img src="docs/flight image.png">
